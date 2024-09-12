@@ -17,7 +17,7 @@ sites:
       - Xeferis
 
 status-website:
-  theme: night
+  theme: custom
   baseUrl: /Website_Status # where "repo" is your repository name
   name: Website Status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
