@@ -7,10 +7,14 @@ sites:
     url: https://www.google.com
   - name: No Escape
     url: https://noescape.info
+    assignees:
+      - Xeferis
   - name: Minecraft Server
     check: "tcp-ping"
     url: $MC_IP
     port: 25565
+    assignees:
+      - Xeferis
 
 status-website:
   theme: night
