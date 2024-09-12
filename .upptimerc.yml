@@ -17,7 +17,7 @@ sites:
       - Xeferis
 
 status-website:
-  theme: dark
+  theme: night
   # themeUrl: https://xeferis.github.io/Website_Status/custom.css
   baseUrl: /Website_Status # where "repo" is your repository name
   name: Website Status
