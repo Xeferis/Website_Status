@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 999,
-    "timeDay": 999,
-    "timeWeek": 999,
-    "timeMonth": 999,
-    "timeYear": 999,
+    "time": 1018,
+    "timeDay": 1018,
+    "timeWeek": 1018,
+    "timeMonth": 1018,
+    "timeYear": 1018,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-server",
     "status": "down",
-    "uptime": "1.11%",
-    "uptimeDay": "1.11%",
-    "uptimeWeek": "1.11%",
-    "uptimeMonth": "1.11%",
-    "uptimeYear": "1.11%",
+    "uptime": "1.02%",
+    "uptimeDay": "1.02%",
+    "uptimeWeek": "1.02%",
+    "uptimeMonth": "1.02%",
+    "uptimeYear": "1.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-12": 111
+      "2024-09-12": 120
     }
   }
 ]
