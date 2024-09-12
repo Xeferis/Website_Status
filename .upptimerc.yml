@@ -23,7 +23,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   navbar:
     - title: Status
-      href: /
+      href: /Website_Status
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
