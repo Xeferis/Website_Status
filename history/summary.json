@@ -22,7 +22,7 @@
     "url": "https://noescape.info",
     "icon": "https://icons.duckduckgo.com/ip3/noescape.info.ico",
     "slug": "no-escape",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1119,
     "timeMonth": 991,
     "timeYear": 1004,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-16": 0
+    }
   },
   {
     "name": "Minecraft Server",
@@ -41,11 +43,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-server",
     "status": "up",
-    "uptime": "98.52%",
+    "uptime": "98.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.52%",
+    "uptimeYear": "98.54%",
     "time": 109,
     "timeDay": 144,
     "timeWeek": 124,
