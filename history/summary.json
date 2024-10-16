@@ -22,19 +22,19 @@
     "url": "https://noescape.info",
     "icon": "https://icons.duckduckgo.com/ip3/noescape.info.ico",
     "slug": "no-escape",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1004,
-    "timeDay": 1119,
-    "timeWeek": 1119,
-    "timeMonth": 991,
-    "timeYear": 1004,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1000,
+    "timeDay": 961,
+    "timeWeek": 1080,
+    "timeMonth": 985,
+    "timeYear": 1000,
     "dailyMinutesDown": {
-      "2024-10-16": 0
+      "2024-10-16": 10
     }
   },
   {
