@@ -5,6 +5,10 @@ repo: Website_Status # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
+  - name: Filament Tracker
+    url: https://filament-tracker.vercel.app
+    assignees:
+      - Xeferis
   - name: No Escape
     url: https://noescape.info
     assignees:
