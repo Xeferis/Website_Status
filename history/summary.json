@@ -11,13 +11,31 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 87,
-    "timeWeek": 96,
-    "timeMonth": 118,
+    "timeDay": 80,
+    "timeWeek": 94,
+    "timeMonth": 116,
     "timeYear": 111,
     "dailyMinutesDown": {
       "2025-01-29": 20
     }
+  },
+  {
+    "name": "Filament Tracker",
+    "url": "https://filament-tracker.vercel.app",
+    "icon": "https://icons.duckduckgo.com/ip3/filament-tracker.vercel.app.ico",
+    "slug": "filament-tracker",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 4158,
+    "timeDay": 4158,
+    "timeWeek": 4158,
+    "timeMonth": 4158,
+    "timeYear": 4158,
+    "dailyMinutesDown": {}
   },
   {
     "name": "No Escape",
@@ -30,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1032,
-    "timeDay": 1111,
-    "timeWeek": 1039,
-    "timeMonth": 1168,
-    "timeYear": 1032,
+    "time": 1031,
+    "timeDay": 1002,
+    "timeWeek": 1021,
+    "timeMonth": 1159,
+    "timeYear": 1031,
     "dailyMinutesDown": {}
   },
   {
@@ -49,8 +67,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 112,
-    "timeDay": 110,
-    "timeWeek": 105,
+    "timeDay": 102,
+    "timeWeek": 103,
     "timeMonth": 114,
     "timeYear": 112,
     "dailyMinutesDown": {
