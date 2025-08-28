@@ -26,9 +26,9 @@
     "url": "https://filament-tracker.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/filament-tracker.vercel.app.ico",
     "slug": "filament-tracker",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "96.17%",
+    "uptimeDay": "96.16%",
     "uptimeWeek": "99.24%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.91%",
@@ -38,6 +38,7 @@
     "timeMonth": 2726,
     "timeYear": 3016,
     "dailyMinutesDown": {
+      "2025-08-28": 0,
       "2025-08-27": 56,
       "2025-08-25": 21,
       "2025-07-26": 56
