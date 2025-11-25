@@ -1,7 +1,7 @@
 url: $MC_IP
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-25T16:46:22.051Z
+status: up
+code: 200
+responseTime: 134
+lastUpdated: 2025-11-25T17:56:04.206Z
 startTime: 2024-09-12T08:18:52.077Z
 generator: Upptime <https://github.com/upptime/upptime>
