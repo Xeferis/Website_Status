@@ -80,19 +80,19 @@
     "url": "$MC_IP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-server",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "95.16%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.99%",
     "time": 114,
-    "timeDay": 154,
+    "timeDay": 144,
     "timeWeek": 136,
-    "timeMonth": 122,
+    "timeMonth": 123,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2025-11-25": 0
+      "2025-11-25": 70
     }
   }
 ]
